@@ -1,0 +1,10 @@
+<application>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="5" />
+    <option name="minGWHomePath" value="C:\Program Files (x86)\CodeBlocks\MinGW" />
+    <option name="winEnvironment" value="MINGW" />
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/GitHub/Default.xml" />
+  </component>
+</application>

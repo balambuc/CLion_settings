@@ -1,0 +1,37 @@
+<code_scheme name="Default">
+  <Objective-C>
+    <option name="BLOCK_BRACE_PLACEMENT" value="2" />
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="FIELDS_PREFIX" value="_" />
+    <option name="INTRODUCE_CONST_PARAMS" value="true" />
+  </Objective-C>
+  <Objective-C-extensions>
+    <file />
+    <class>
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+      <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+    </class>
+    <extensions>
+      <pair source="cpp" header="h" />
+      <pair source="c" header="h" />
+    </extensions>
+  </Objective-C-extensions>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="WHILE_ON_NEW_LINE" value="true" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="ENUM_CONSTANTS_WRAP" value="0" />
+  </codeStyleSettings>
+</code_scheme>
