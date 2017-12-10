@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/balambuc/cpp_gTest_travis_clion-DEMO.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/balambuc/CLion_default_cpp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\bardo\GitHub\" />
+    <option name="cloneParentDir" value="$USER_HOME$/CLionProjects" />
   </component>
 </application>
